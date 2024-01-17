@@ -11,7 +11,7 @@ A simple Food Card UI component.
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgments](#acknowledegments)
 
 ## Overview
 
@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: []()
+- Live Site URL: [https://quiel-pp-food-card-ui-component.netlify.app/](https://quiel-pp-food-card-ui-component.netlify.app/)
 
 ## My process
 
