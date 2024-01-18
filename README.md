@@ -11,7 +11,7 @@ A simple Food Card UI component.
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledegments)
+- [Acknowledgments](#acknowledegements)
 
 ## Overview
 
